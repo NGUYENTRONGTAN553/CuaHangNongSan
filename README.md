@@ -1,5 +1,5 @@
 # CuaHangNongSan
-Dề tài: Xây dựng phần mềm quản lý cửa hàng nông sản
+Đề tài: Xây dựng phần mềm quản lý cửa hàng nông sản
 Thành viên thực hiện:<br>
 .Lường Văn Chung<br>
 .Đoàn Văn Sơn<br>
